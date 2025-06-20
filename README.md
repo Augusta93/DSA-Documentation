@@ -45,10 +45,18 @@ SELECT A,B,C
 WHERE A> 15
 
 ```
+### Analysis
 
 
 
+![Untitled-1](https://github.com/user-attachments/assets/0c633bff-e565-4dcb-b478-878ce50c1c12)
 
 
+
+![pie chart](https://github.com/user-attachments/assets/29e21b57-ea79-4e6a-9262-e4bc9356dc9d)
+
+
+**Bold**
+*italics*
 
 
